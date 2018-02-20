@@ -3,18 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package domain;
-
-import java.util.Date;
+package files;
 
 /**
  *
  * @author edwar
  */
-public class Loan {
-    Material material;
-    Date loanDate;
-    Date returnDate;
-    float debt;
-    boolean payed;
+public class xmlFileReader {
+    
 }
