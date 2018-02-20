@@ -5,13 +5,16 @@
  */
 package domain;
 
+import java.util.Date;
+
 /**
  *
  * @author edwar
  */
-public class student {
-    String id;
-    int qLoans;
-    loan[] loans;
-    
+public class loan {
+    material material;
+    Date loanDate;
+    Date returnDate;
+    float debt;
+    boolean payed;
 }
