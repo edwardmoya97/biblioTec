@@ -3,12 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package files;
+package domain;
 
 /**
  *
  * @author edwar
  */
-public class randomAccessFileReader {
+public class Student {
+    String id;
+    String name;
+    int qLoans;
+    Loan[] loans;
     
 }

@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package files;
+package domain;
 
 /**
  *
  * @author edwar
  */
-public class secuencialFileReader {
+public class Material {
     
 }
