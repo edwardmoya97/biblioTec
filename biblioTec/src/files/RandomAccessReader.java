@@ -3,14 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package domain;
+package files;
 
 /**
  *
  * @author edwar
  */
-public class Globals {
-    public static int loanDays = 5;
-    public static float dayDebt = 1000;
-    public static String password = "admin";
+public class RandomAccessReader {
+    
 }
