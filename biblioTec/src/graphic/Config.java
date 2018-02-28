@@ -19,6 +19,7 @@ public class Config extends javax.swing.JFrame {
      */
     public Config() {
         initComponents();
+        this.setLocationRelativeTo(null);
     }
 
     /**
